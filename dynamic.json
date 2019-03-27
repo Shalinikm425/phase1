@@ -1,0 +1,52 @@
+{
+  "profile":{
+    "image":"images/login.jpg",
+    "name":"Shalini",
+    "Designation":"Student",
+    "Phoneno":"9746562753",
+    "Mailid":"kgfiu@gmail.com"
+  },
+  "Career_Objectives":{
+    "info":"To seek Challenging position where i can prove myself."
+  },
+  "educ":
+    [
+      {
+    "sno":"1",
+    "Qualification":"Btech",
+    "Institute":"mits",
+    "yop":"2021",
+    "per":"94"
+  },
+  {
+    "sno":"2",
+    "Qualification":"Inter",
+    "Institute":"LRGJr",
+    "yop":"2017",
+    "per":"96"
+  },
+  {
+  "sno":"3",
+  "Qualification":"10",
+  "Institute":"LRG",
+  "yop":"2015",
+  "per":"97"
+}
+]
+,
+"skills":[
+  {
+  "name":"webTechnologies",
+  "info":["HTML","CSS","Js"]
+},
+{
+  "name":"programminglang",
+  "info":["c","c++","java"]
+},
+{
+  "name":"database",
+  "info":["sql"]
+}
+]
+
+}
